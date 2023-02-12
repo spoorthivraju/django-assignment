@@ -1,0 +1,2 @@
+﻿site_id,site_name,country,order_id,purchase_id,csm_name,serial,ip_address,model,macaddr
+1,SITE_01,India,1,1,csm1,CNSHDN001,0.0.0.0,AP-555,1A1B1C1D1E1F1G

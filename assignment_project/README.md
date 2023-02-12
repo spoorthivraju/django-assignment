@@ -1,0 +1,2 @@
+- models.py file is used to define classes/tables
+- admin.py file is used to display your models in the Django admin panel
